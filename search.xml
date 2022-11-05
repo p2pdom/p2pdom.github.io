@@ -32,4 +32,21 @@
         <tag>基础知识</tag>
       </tags>
   </entry>
+  <entry>
+    <title>双目引导机械臂</title>
+    <url>/post/8bcc43eb.html</url>
+    <content><![CDATA[<h2 id="双目引导机械臂"><a href="#双目引导机械臂" class="headerlink" title="双目引导机械臂"></a>双目引导机械臂</h2><span id="more"></span> 
+
+<p><video src="showvid.mp4" position= "absolute" width="100%" height="100%" controls="controls"></video></p>
+]]></content>
+      <categories>
+        <category>项目展示</category>
+      </categories>
+      <tags>
+        <tag>双目视觉</tag>
+        <tag>深度学习</tag>
+        <tag>嵌入式边缘设备</tag>
+        <tag>机械臂控制</tag>
+      </tags>
+  </entry>
 </search>
